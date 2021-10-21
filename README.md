@@ -7,7 +7,7 @@
 
 
 - 🚀  I’m currently working on front-end and AR/VR development
-- 🎨  I’m currently learning AR/VR development　and learning English
+- 🎨  I’m currently learning AR/VR development　and　learning English
 - 💌  How to reach me: [Twitter](https://twitter.com/akiy_8) DM
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkie8&theme=dracula)
