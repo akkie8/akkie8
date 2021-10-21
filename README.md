@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi human!👋, I'm Aki
+
+- 🔭 I’m currently working on front-end and AR/VR development.
+- 🌱 I am currently learning AR/VR development　and learning English.
+- 📫 How to reach me: [Twitter](https://twitter.com/akiy_8) DM 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkie8&theme=dracula)
 
 <!--
 **akkie8/akkie8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
