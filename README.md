@@ -3,7 +3,7 @@
 ## Hi human👋, I'm Aki🤖
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/akiy_8)
 
 
 - 🚀  I’m currently working on front-end and AR/VR development
