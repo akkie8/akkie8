@@ -34,11 +34,5 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
  
 </p>
-<p>
-  <img alt="Oculus" src="https://img.shields.io/badge/Oculus-1C1E20?logo=Oculus&logoColor=white&style=for-the-badge" />
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=Blender&logoColor=white&style=for-the-badge" />
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=Unreal Engine&logoColor=white&style=for-the-badge" />
-</p>
 
 * * *
