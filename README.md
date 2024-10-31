@@ -2,7 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akkie8&color=blueviolet)
 
-- 💻 Software Engineer with **10 years** experience
 - 🚀 I'm currently working on Web development with React, Next.js and TypeScript
 - 🎨 I'm currently learning English, Backend development and UI/UX design
 - 💌 How to reach me: [X](https://twitter.com/akiy_8) DM
