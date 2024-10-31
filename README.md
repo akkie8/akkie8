@@ -9,8 +9,6 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akkie8&show_icons=true&theme=dracula)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkie8&theme=dracula)
 
 </div>
@@ -18,5 +16,3 @@
 ## Skills & Tech🪐
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,sass,react,nextjs,vue,nuxtjs,angular,redux,tailwindcss,styledcomponents,materialui,bootstrap,vite,webpack,nodejs,npm,yarn,jest,vscode,git,github,githubactions,gitlab,vercel,netlify,supabase,firebase,docker,figma,notion,postman,unity,cpp,express,gmail,md" />
-
----
