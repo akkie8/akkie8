@@ -6,9 +6,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/akiy_8)
 
 
-- 🚀  I’m currently working on front-end and AR/VR development
-- 🎨  I’m currently learning AR/VR development　and　learning English
-- 💌  How to reach me: [Twitter](https://twitter.com/akiy_8) DM
+- 🚀  I'm currently working on Web development with React, Next.js and TypeScript
+- 🎨  I'm currently learning English, Backend development and UI/UX design
+- 💌  How to reach me: [X](https://twitter.com/akiy_8) DM
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkie8&theme=dracula)
 
