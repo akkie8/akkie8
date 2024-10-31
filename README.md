@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akkie8&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akkie8&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,prs)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkie8&theme=dracula)
 
